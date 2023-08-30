@@ -1,7 +1,7 @@
 ![](sunburst.gif)
 
 Sunburst charts are a great way to visualize hierarchical data. This particular server consists of three separate partitions
-which are the inital "parent" layer in the hierarchy. Then, there are different groups/accounts which are consisted of 
+which are the inital "parent" layer in the hierarchy. Next, there are different groups/accounts which consist of 
 individual users. The visualization breaks down the total job count, memory and time usage for each account and user per
 partition.
 
