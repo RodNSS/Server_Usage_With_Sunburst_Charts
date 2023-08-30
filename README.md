@@ -1,2 +1,2 @@
-# Server_Usage_With_Sunburst_Charts
+![](sunburst.gif)
 Visualizing server usage with sunburst subplots in Python
